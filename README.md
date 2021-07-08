@@ -1,4 +1,4 @@
-#Assignments for Parallel Distributed Processing 2021 For Tim Gras 630259
+##Assignments for Parallel Distributed Processing 2021 For Tim Gras 630259
 
 ## Assignment 1
 Will run a Python script that uses MRJob to sorts a list of movies by the count of the ratings.
