@@ -12,5 +12,8 @@ Will give answers to 3 questions about the passengers on the Titanic
 ## A
 What the probability is that a person survives based on their sex and class
 
+## B
+What the provability is that a child survided based on their age and class
+
 ## C
 How much people payed for each class, based on the expection of fare.
